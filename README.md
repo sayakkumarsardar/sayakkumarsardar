@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sayakkumarsardar
-- 👀 I’m interested in ...JAVA AND CPP.
-- 🌱 I’m currently learning ...JAVA PROGRAMMING.
-- 💞️ I’m looking to collaborate on ...JAVA PROJECTS.
+- 👋 Hi, I’m Sayak
+- 👀 I’m interested in ...Java, Javascript and C++.
+- 🌱 I’m currently learning ...React
+- 💞️ I’m looking to collaborate on ...Any type of projects.
 - 📫 How to reach me ...sayaksardar15@gmail.com
 
 <!---
