@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sayak from Kolkata
 - 👀 I’m interested in ...Creating applications using cutting edge DevOps tools
-- 🌱 I’m currently learning ...DevOps technologies
+- 🌱 I’m currently working on ...DevOps technologies in TCS Kolkata
 - 💞️ I’m looking to collaborate on ...Any project using DevOps.
 - 📫 How to reach me ...sayaksardar15@gmail.com
 
