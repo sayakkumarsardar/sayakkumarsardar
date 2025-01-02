@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sayak
-- 👀 I’m interested in ...Java, Javascript and C++.
-- 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ...Any type of projects.
+- 👋 Hi, I’m Sayak from Kolkata
+- 👀 I’m interested in ...DevOps tools and creating applications.
+- 🌱 I’m currently learning ...DevOps technologies
+- 💞️ I’m looking to collaborate on ...Any project using DevOps.
 - 📫 How to reach me ...sayaksardar15@gmail.com
 
 <!---
