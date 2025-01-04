@@ -8,4 +8,4 @@
 sayakkumarsardar/sayakkumarsardar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![README](https://github.com/user-attachments/assets/81bc8635-abe2-4531-90e4-8697bfb7a7f9)
+![README](https://github.com/user-attachments/assets/28ee1574-8c97-4c7c-ad57-61ab41d5fd96)
