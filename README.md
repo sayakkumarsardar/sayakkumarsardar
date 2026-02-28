@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sayak from Kolkata
-- 👀 I’m interested in ...Creating applications using cutting edge DevOps tools
+- 👋 Hi, I’m Sayak from TCS Kolkata
+- 👀 I’m a DevOps Engineer passionate about building and deploying scalable applications using cutting-edge DevOps tools.
 - 🌱 I’m currently working on ...DevOps technologies like Docker, Kubernetes, Ansible in TCS Kolkata
-- 💞️ I’m looking to collaborate on ...Any project using DevOps.
+- 💞️ I’m looking for collaborating on DevOps-driven projects involving CI/CD pipelines, cloud infrastructure, container orchestration, and automation.
 - 📫 How to reach me sayaksardar15@gmail.com
 
 <!---
