@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sayak from TCS Kolkata
+- 👋 Hi, I’m Sayak from Cognizant Kolkata
 - 👀 I’m a DevOps Engineer passionate about building and deploying scalable applications using cutting-edge DevOps tools.
 - 🌱 I’m currently working on ...DevOps technologies like Docker, Kubernetes, Ansible in TCS Kolkata
 - 💞️ I’m looking for collaborating on DevOps-driven projects involving CI/CD pipelines, cloud infrastructure, container orchestration, and automation.
